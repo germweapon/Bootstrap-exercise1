@@ -1,0 +1,994 @@
+/*Css for Large Device*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+    #choose-us .s-h-p {
+        margin-bottom: 23px;
+    }
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+    #servicepart .s-h-p {
+        margin-bottom: 2px;
+    }
+    #about h4 {
+        margin-bottom: 14px;
+    }
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+    #gallery .s-h-p {
+        margin-bottom: 14px;
+    }
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+    #pricing .price {
+        margin-top: 17px;
+    }
+    #team h2 {
+        margin-bottom: 14px;
+    }
+    #team .s-h-p {
+        margin-bottom: 0px;
+    }
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+    #faq .s-h-p {
+        margin-bottom: 24px;
+    }
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+    #blog .s-top-p {
+        padding-bottom: 7px;
+    }
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+    #clientpart .s-h-p {
+        margin-bottom: 3px;
+    }
+}
+
+/*Css for Medium Device*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #home .top-header,
+    #home .logo-area {
+        display: none;
+    }
+    .navigation .navbar-nav .nav-item .nav-link {
+        line-height: 40px;
+    }
+    .navigation .form-input {
+        display: inline-block;
+    }
+    .navigation form {
+        display: inline-block;
+    }
+    .navigation.stiky-nav form {
+        background: #02124d;
+    }
+    .navigation.stiky-nav .form-input {
+        background: none;
+        display: block;
+        height: 100%;
+        padding: 5px;
+        border: 0px;
+        color: #f1f1f1;
+    }
+    .navigation.stiky-nav .form-input::placeholder {
+        color: #f1f1f1;
+    }
+    .navigation.stiky-nav .f-s-btn {
+        text-align: center;
+        padding: 5px;
+        color: #f1f1f1;
+        border: 0px;
+        background: none;
+        cursor: pointer;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link {
+        color: #fff;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link {
+        color: #fff;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link.active,
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link:hover {
+        background: #4285f4;
+        color: #fff;
+    }
+    .navigation.stiky-nav {
+        background: #083180;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        background: #02124d;
+    }
+    .layer-1-2 h1 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .navigation form {
+        height: 50px;
+        margin-bottom: 30px;
+        margin-top: 15px;
+        line-height: 20px;
+    }
+    #about .about-img {
+        margin-top: 30px;
+    }
+    #pricing .sm-mt-30 {
+        margin-top: 22px;
+    }
+    .navigation .logo-sm {
+        display: block !important;
+    }
+    /* ============ */
+    .card {
+        margin-bottom: 15px;
+    }
+    .card p {
+        font-size: 14px;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    .businessplantext {
+        margin-top: 2%;
+    }
+    .bannertext h5 {
+        margin-bottom: 5px;
+    }
+    #about h4 {
+        margin-top: 30px
+    }
+    #counterpart h5 {
+        margin-bottom: 18px;
+    }
+    #contactuspart p {
+        margin-bottom: 30px;
+    }
+    .contactbg {
+        padding: 28px 15px 0px;
+    }
+    .md-pt-30 {
+        padding-top: 30px;
+    }
+    .copy-bg p {
+        margin-bottom: 0px !important;
+    }
+    .portfolio-item {
+        width: 50%;
+    }
+    #businessplan {
+        display: none;
+    }
+    /*footer part end*/
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+    #choose-us .s-h-p {
+        margin-bottom: 23px;
+    }
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+    #servicepart .s-h-p {
+        margin-bottom: 2px;
+    }
+    #about h4 {
+        margin-bottom: 14px;
+    }
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+    #gallery .s-h-p {
+        margin-bottom: 14px;
+    }
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+    #pricing .price {
+        margin-top: 17px;
+    }
+    #team h2 {
+        margin-bottom: 14px;
+    }
+    #team .s-h-p {
+        margin-bottom: 0px;
+    }
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+    #faq .s-h-p {
+        margin-bottom: 24px;
+    }
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+    #blog .s-top-p {
+        padding-bottom: 7px;
+    }
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+    #clientpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    .why-choose-thumb a img {
+        width: 100%;
+    }
+    #blog .single-post .blog-post-img img {
+        width: 100%;
+    }
+    .navigation.stiky-nav .form-input {
+        background: none;
+        display: inline-block;
+        height: 100%;
+        padding: 5px;
+        border: 0px;
+        color: #f1f1f1;
+    }
+    #servicepage .s-aside{
+        margin-top: 40px;
+    }
+    .navigation.stiky-nav .logobg2 {
+        display: none;
+    }
+    .navigation.stiky-nav .logobg {
+        display: block;
+    }
+    .slide-caption .slider-inner .caption-title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .intro-area .owl-nav{
+        display: none;
+    }
+}
+
+/*Css for Small Device*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #home .top-header,
+    #home .logo-area {
+        display: none;
+    }
+    .navigation .navbar-nav .nav-item .nav-link {
+        line-height: 40px;
+    }
+    .navigation .form-input {
+        display: inline-block;
+    }
+    .navigation form {
+        display: inline-block;
+    }
+    .navigation.stiky-nav form {
+        background: #02124d;
+    }
+    .navigation.stiky-nav .form-input {
+        background: none;
+        display: inline-block;
+        height: 100%;
+        padding: 5px;
+        border: 0px;
+        color: #f1f1f1;
+    }
+    .navigation.stiky-nav .form-input::placeholder {
+        color: #f1f1f1;
+    }
+    .navigation.stiky-nav .f-s-btn {
+        text-align: center;
+        padding: 5px;
+        color: #f1f1f1;
+        border: 0px;
+        background: none;
+        cursor: pointer;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link {
+        color: #fff;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link {
+        color: #fff;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link.active,
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link:hover {
+        background: #4285f4;
+        color: #fff;
+    }
+    .navigation.stiky-nav {
+        background: #083180;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        background: #02124d;
+    }
+    .layer-1-2 h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .navigation form {
+        height: 50px;
+        margin-bottom: 30px;
+        margin-top: 15px;
+        line-height: 20px;
+    }
+    #about .about-img {
+        margin-top: 30px;
+    }
+    #pricing .sm-mt-30 {
+        margin-top: 22px;
+    }
+    .navigation .logo-sm {
+        display: block !important;
+    }
+    .slider-images img {
+        height: 340px;
+    }
+    /* ============ */
+    .card {
+        margin-bottom: 15px;
+    }
+    .card p {
+        font-size: 14px;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    .bannertext h5 {
+        margin-bottom: 5px;
+    }
+    #about h4 {
+        margin-top: 30px;
+    }
+    /* pricing */
+    .sm-mt-30 {
+        margin-top: 30px;
+    }
+    .modal-body p {
+        padding-top: 15px;
+    }
+    /*Counter part css start*/
+    #counterpart h5 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+    #counterpart {
+        padding: 90px 0px 80px;
+    }
+    /*Counter part css end*/
+    /* footer */
+    #contactuspart p {
+        margin-bottom: 30px;
+    }
+    .contactbg {
+        padding: 28px 15px 0px;
+    }
+    .md-pt-30 {
+        padding-top: 30px;
+    }
+    .copy-bg p {
+        margin-bottom: 0px !important;
+    }
+    .portfolio-item {
+        width: 100%;
+        padding: 0;
+    }
+    .portfolio-item+.portfolio-item {
+        margin-top: 10px;
+    }
+    #businessplan {
+        display: none;
+    }
+    /* ======== */
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+    #choose-us .s-h-p {
+        margin-bottom: 23px;
+    }
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+    #servicepart .s-h-p {
+        margin-bottom: 2px;
+    }
+    #about h4 {
+        margin-bottom: 14px;
+    }
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+    #gallery .s-h-p {
+        margin-bottom: 14px;
+    }
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+    #pricing .price {
+        margin-top: 17px;
+    }
+    #team h2 {
+        margin-bottom: 14px;
+    }
+    #team .s-h-p {
+        margin-bottom: 0px;
+    }
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+    #faq .s-h-p {
+        margin-bottom: 24px;
+    }
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+    #blog .s-top-p {
+        padding-bottom: 7px;
+    }
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+    #clientpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    #choose-us {
+        padding: 61px 0px 35px;
+    }
+    #servicepart {
+        padding: 60px 0px 48px;
+    }
+    #about {
+        padding: 30px 0px 70px;
+        background: whitesmoke;
+    }
+    .protfolio-filter li {
+        padding: 7px 15px;
+    }
+    #gallery {
+        padding: 60px 0px 50px;
+    }
+    #counterpart {
+        padding: 50px 0px 50px;
+    }
+    #testimonialpart {
+        padding: 60px 0px 50px;
+    }
+    #pricing {
+        padding: 60px 0px 60px;
+        background: whitesmoke;
+    }
+    #team {
+        padding: 60px 0px 42px;
+    }
+    #faq {
+        background: whitesmoke;
+        padding: 60px 0px 70px;
+    }
+    #accordion-2 {
+        margin-top: 30px;
+    }
+    #blog.section-padding {
+        padding: 62px 0px 50px;
+    }
+    #clientpart {
+        padding: 60px 0px 50px;
+        background: whitesmoke;
+    }
+    #map {
+        height: 400px;
+    }
+    #footerbg {
+        padding: 68px 0 0;
+    }
+    .footertext {
+        padding-bottom: 58px;
+    }
+    .all_blogs,
+    .single-blog {
+        padding: 100px 0px 70px;
+    }
+    .blogs .blog-box .blog-details .meta li {
+        padding-right: 2px;
+        padding-left: 7px;
+    }
+    #servicepage .s-aside{
+        margin-top: 40px;
+    }
+    #servicepage .s-bottom-content-2{
+        margin-top: 40px;
+    }
+    #servicepage #about {
+        padding: 60px 0px 98px;
+    }
+    .portfolio-details .info {
+        margin-top: 50px;
+    }
+    .portfolio-details .bottom-info .tags, .portfolio-details .bottom-info .share {
+        float: left;
+        width: 100%;
+    }
+    .portfolio-details .bottom-info .share {
+        text-align: left;
+        margin-top: 15px;
+    }
+    
+    #forzerofour h2{
+        font-size: 100px!important;
+      }
+    #forzerofour h3{
+        font-size: 20px;
+      }
+      .navigation.stiky-nav .logobg2 {
+        display: none;
+    }
+    .navigation.stiky-nav .logobg {
+        display: block;
+    }
+    .slide-caption .slider-inner .caption-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .slide-caption .slider-inner .caption-title {
+        margin-bottom: 20px;
+    }
+    .intro-area .owl-nav{
+        display: none;
+    }
+}
+
+/*Css for Extra small Device*/
+
+@media (max-width: 575.98px) {
+    #home .top-header,
+    #home .logo-area {
+        display: none;
+    }
+    .navigation .navbar-nav .nav-item .nav-link {
+        line-height: 40px;
+    }
+    .navigation .form-input {
+        display: inline-block;
+    }
+    .navigation form {
+        display: inline-block;
+    }
+    .navigation.stiky-nav form {
+        background: #02124d;
+    }
+    .navigation.stiky-nav .form-input {
+        background: none;
+        display: inline-block;
+        height: 100%;
+        padding: 5px;
+        border: 0px;
+        color: #f1f1f1;
+    }
+    .navigation.stiky-nav .form-input::placeholder {
+        color: #f1f1f1;
+    }
+    .navigation.stiky-nav .f-s-btn {
+        text-align: center;
+        padding: 5px;
+        color: #f1f1f1;
+        border: 0px;
+        background: none;
+        cursor: pointer;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link {
+        color: #fff;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link {
+        color: #fff;
+    }
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link.active,
+    .navigation.stiky-nav .navbar-nav .nav-item .nav-link:hover {
+        background: #4285f4;
+        color: #fff;
+    }
+    .navigation.stiky-nav {
+        background: #083180;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        background: #02124d;
+    }
+    .layer-1-2 h1 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .navigation form {
+        height: 50px;
+        margin-bottom: 30px;
+        margin-top: 15px;
+        margin-left: 20px;
+        line-height: 20px;
+    }
+    #about .about-img {
+        margin-top: 30px;
+    }
+    #pricing .sm-mt-30 {
+        margin-top: 22px;
+    }
+    .navigation .logo-sm {
+        display: block !important;
+        padding-left: 15px;
+    }
+    .slider-images img {
+        height: 300px;
+    }
+    .slider-content {
+        margin-top: -131px;
+    }
+    .why-choose-thumb a img {
+        width: 100%;
+    }
+    #blog .single-post .blog-post-img img {
+        width: 100%;
+    }
+    /* ============ */
+    .pl {
+        padding-left: 15px;
+    }
+    /*    banner part part */
+    .bannertext h5 {
+        font-size: 20px;
+        text-align: center;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+    .bannertext p {
+        font-size: 16px;
+        text-align: center;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .bannertext a {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    /*    banner part end*/
+    /*businessplan part css start*/
+    .businessplantext h5 {
+        font-size: 20px;
+    }
+    .businessplantext p {
+        font-size: 16px;
+    }
+    .businessplantext {
+        margin-right: 15px;
+    }
+    /*businessplan part css start*/
+    #about {
+        padding: 60px 0px 68px;
+    }
+    #about h4 {
+        margin-top: 30px;
+    }
+    #servicepart {
+        padding: 61px 0px 69px;
+    }
+    .portfolio-item {
+        width: 100%;
+        padding: 0;
+    }
+    .portfolio-item+.portfolio-item {
+        margin-top: 10px;
+    }
+    .modal-body p {
+        padding-top: 15px;
+    }
+    #gallery {
+        padding: 60px 0px 50px;
+    }
+    #testimonialpart {
+        padding: 61px 0px 70px;
+    }
+    .pricing-category {
+        margin-bottom: 30px;
+    }
+    #pricing {
+        padding: 61px 0px 40px;
+    }
+    #team {
+        padding: 61px 0px 70px;
+    }
+    /*Counter part css start*/
+    #counterpart h5 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+    #counterpart {
+        padding: 90px 0px 80px;
+    }
+    #counterpart {
+        padding: 61px 0px 50px;
+    }
+    /*Counter part css end*/
+    /*testimonial part start*/
+    .testimonial {
+        margin: 0px;
+        margin: 0px 15px;
+    }
+    /*testimonial part end*/
+    #clientpart {
+        padding: 61px 0px 70px;
+    }
+    #contactuspart i {
+        margin-bottom: 30px;
+    }
+    .contactbg {
+        padding: 30px 15px 0px;
+    }
+    /*    footer */
+    .footertext .manu {
+        margin-top: 30px;
+    }
+    /* ========== */
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+    #choose-us .s-h-p {
+        margin-bottom: 23px;
+    }
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+    #servicepart .s-h-p {
+        margin-bottom: 2px;
+    }
+    #about h4 {
+        margin-bottom: 14px;
+    }
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+    #gallery .s-h-p {
+        margin-bottom: 14px;
+    }
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+    #pricing .price {
+        margin-top: 17px;
+    }
+    #team h2 {
+        margin-bottom: 14px;
+    }
+    #team .s-h-p {
+        margin-bottom: 0px;
+    }
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+    #faq .s-h-p {
+        margin-bottom: 24px;
+    }
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+    #blog .s-top-p {
+        padding-bottom: 7px;
+    }
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+    #clientpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    #choose-us {
+        padding: 61px 0px 35px;
+    }
+    #servicepart {
+        padding: 60px 0px 48px;
+    }
+    #about {
+        padding: 30px 0px 70px;
+        background: whitesmoke;
+    }
+    .protfolio-filter li {
+        padding: 5px 15px;
+        font-size: 14px;
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+    #gallery {
+        padding: 60px 0px 50px;
+    }
+    #counterpart {
+        padding: 50px 0px 50px;
+    }
+    #testimonialpart {
+        padding: 60px 0px 50px;
+    }
+    #pricing {
+        padding: 60px 0px 60px;
+        background: whitesmoke;
+    }
+    #team {
+        padding: 60px 0px 42px;
+    }
+    #faq {
+        background: whitesmoke;
+        padding: 60px 0px 70px;
+    }
+    #accordion-2 {
+        margin-top: 30px;
+    }
+    #blog.section-padding {
+        padding: 62px 0px 50px;
+    }
+    #clientpart {
+        padding: 60px 0px 50px;
+        background: whitesmoke;
+    }
+    #map {
+        height: 400px;
+    }
+    #footerbg {
+        padding: 68px 0 0;
+    }
+    .footertext {
+        padding-bottom: 58px;
+    }
+    .layer-1-1 p {
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 24px;
+    }
+    h2 {
+        font-size: 30px !important;
+    }
+    .protfolio-filter {
+        margin-bottom: 15px;
+    }
+    .ready-btn {
+        font-size: 14px;
+        margin-top: 20px;
+        width: 120px;
+        border-radius: 3px;
+    }
+    .all_blogs,
+    .single-blog {
+        padding: 100px 0px 70px;
+    }
+    #about h4 {
+        font-size: 30px;
+    }
+    .comments-container .comments-list li {
+        background: #f3f3f3;
+        position: relative;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 15px;
+        min-height: 120px;
+        padding-top: 110px;
+       }
+       
+    #servicepage .s-aside{
+        margin-top: 40px;
+    }
+    #servicepage .s-bottom-content-2{
+        margin-top: 40px;
+    }
+    #servicepage #about {
+        padding: 30px 0px 68px;
+    }
+    #servicepage #servicepart {
+        padding: 61px 0px 66px;
+    }
+    #servicepage .s-video-bottom-content {
+        padding-top: 70px;
+    }
+    #servicepage .s-t-part {
+        padding-bottom: 67px;
+    }
+    .portfolio-details{
+        padding: 70px 0px 70px;
+      }
+      
+    .portfolio-details .info {
+        margin-top: 50px;
+    }
+    .portfolio-details .bottom-info .tags, .portfolio-details .bottom-info .share {
+        float: left;
+        width: 100%;
+    }
+    .portfolio-details .bottom-info .share {
+        text-align: left;
+        margin-top: 15px;
+    }
+    .contact-form-area-padding {
+        padding: 70px 0px 70px;
+    }
+    #forzerofour h2{
+        font-size: 100px!important;
+      }
+    #forzerofour h3{
+        font-size: 20px;
+      }
+      .navigation.stiky-nav .logobg2 {
+        display: none;
+    }
+    .navigation.stiky-nav .logobg {
+        display: block;
+    }
+    .slide-caption .slider-inner .caption-title {
+        font-size: 22px;
+    line-height: 25px;
+    }
+    .slide-caption .slider-inner .caption-desc {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .slide-caption .slider-inner .caption-title {
+        margin-bottom: 20px;
+    }
+    .intro-area .owl-nav{
+        display: none;
+    }
+    .navigation .logobg {
+        padding-left: 15px;
+    }
+    .slide-caption .slider-inner .slide-btn a {
+        margin: 0px 5px;
+    }
+    .slide-btn a {
+        width: 125px;
+    }
+}
